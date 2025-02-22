@@ -1,0 +1,6 @@
+@OnineEdu.API_HostAddress = http://localhost:5072
+
+GET {{OnineEdu.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
